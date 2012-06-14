@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F" ModuleId="MVVM" />
+  <Module PersistentId="E6763921-DFF5-4FBB-84EF-611EBAAE4E9C" ModuleId="Caliburn Micro" />
+</Modules>
