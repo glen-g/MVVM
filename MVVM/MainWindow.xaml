@@ -26,8 +26,7 @@
             </ListBox.ItemTemplate>
         </ListBox>
         <ListBox Height="383" HorizontalAlignment="Left" Margin="547,0,0,0" Name="listBox1" VerticalAlignment="Top" Width="353" Background="LightGray"/>
-        <Image Height="383
-               " Source="{Binding Path=CurrentImageFromTweet}" VerticalAlignment="Center" Margin="547,34,-13,67" Stretch="Fill"/>
+        <Image Height="400" Source="{Binding Path=CurrentImageFromTweet}" VerticalAlignment="Center" Margin="547,0,-13,50" Stretch="Fill"/>
         <TextBox Height="23" Text="{Binding CurrentTwitterUser, UpdateSourceTrigger=PropertyChanged}" HorizontalAlignment="Center" Margin="192,410,0,0" Name="TextUpdateTweets" VerticalAlignment="Top" Width="169" />
         <Button Content="Update" Height="23" HorizontalAlignment="Center" Margin="380,410,0,0" VerticalAlignment="Top" Width="75" Click="UpdateTweets" />
     </Grid>
