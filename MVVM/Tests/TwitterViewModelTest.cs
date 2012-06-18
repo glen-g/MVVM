@@ -14,7 +14,7 @@ namespace MVVM.Tests
     class TwitterViewModelTest
     {
         private ITwitterService _mock;
-        private ITwitterViewModel _tvm;
+        private TwitterViewModel _tvm;
 
         [SetUp]
         public void Init()
@@ -76,7 +76,32 @@ namespace MVVM.Tests
             _tvm.SelectedTweet = _tvm.Tweets.First();
 
             Assert.IsTrue(_tvm.CurrentImageFromTweet == "http://www.google.com/google.jpg");
-
         }
+
+        [Test]
+        public void CurrentTwitterIdShouldReturnNameOfCurrentTwitterId()
+        {
+            _tvm.CurrentTwitterId = "RealTimeWWII";
+            Assert.IsTrue(_tvm.CurrentTwitterId == "RealTimeWWII");
+        }
+
+        [Test]
+        public void SelectedTweetShouldReturnTheTweetThatHasBeenSelected()
+        {
+            _tvm.SelectedTweet = new Tweet
+                                     {
+                                         text = "New Selected Tweet!"
+                                     };
+
+            Assert.IsTrue(_tvm.SelectedTweet.text == "New Selected Tweet!");
+        }
+
+        [Test]
+        public void SelectedTweetShouldSetCurrentImageFromTweetToDefaultCurrentImageFromTweetSinceSelectedTweetDoesntContainAnEmbeddedImage()
+        {
+            _tvm.SelectedTweet = null;
+            Assert.IsTrue(_tvm.CurrentImageFromTweet == _tvm._defaultCurrentImageFromTweet);
+        }
+
     }
 }

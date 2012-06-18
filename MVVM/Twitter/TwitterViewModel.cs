@@ -15,6 +15,8 @@ namespace MVVM.Twitter
         private readonly ITwitterService _twitterService;
         public event PropertyChangedEventHandler PropertyChanged = delegate { };
 
+        public readonly string _defaultCurrentImageFromTweet = "http://twitter.com/images/three_circles/twitter-bird-light-bgs.png";
+
         public ObservableCollection<Tweet> Tweets
         {
             get { return _tweets; }
@@ -30,10 +32,18 @@ namespace MVVM.Twitter
                 if (CheckIfTweetContainsEmbeddedImage(value))
                     CurrentImageFromTweet = value.entities.media.First().media_url;
                 else
-                    CurrentImageFromTweet = "";
+                    CurrentImageFromTweet = _defaultCurrentImageFromTweet;
             }
         }
         private Tweet _selectedTweet;
+
+        public string CurrentTwitterId
+        {
+            get { return _currentTwitterUser; }
+            set { _currentTwitterUser = value; }
+        }
+
+        private string _currentTwitterUser;
 
         public string CurrentImageFromTweet
         {
@@ -60,12 +70,14 @@ namespace MVVM.Twitter
 
         public void UpdateTweets(string userId)
         {
+            
             _tweets = _twitterService.GetNextTwentyTweetsFromUserId(userId);
+            RaisePropertyChanged("Tweets");
         }
 
         private bool CheckIfTweetContainsEmbeddedImage(Tweet currentTweet)
         {
-            if (currentTweet.entities.media == null)
+            if (currentTweet == null || currentTweet.entities == null || currentTweet.entities.media == null)
                 return false;
             else
                 return true;

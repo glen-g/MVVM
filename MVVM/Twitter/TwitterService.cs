@@ -12,12 +12,31 @@ namespace MVVM.Twitter
     {
         public ObservableCollection<Tweet> GetNextTwentyTweetsFromUserId(string userId)
         {
+            ObservableCollection<Tweet> tweets;
+
             var client = new WebClient();
-            var json = client.DownloadString(new Uri("https://api.twitter.com/1/statuses/user_timeline.json?screen_name=" + userId + "&include_entities=1&count=20"));
 
-            var tweets = JsonConvert.DeserializeObject<ObservableCollection<Tweet>>(json);
 
-            return tweets;  
+            try
+            {
+                var json = client.DownloadString(
+                    new Uri("https://api.twitter.com/1/statuses/user_timeline.json?screen_name=" + userId +
+                            "&include_entities=1&count=20"));
+
+                tweets = JsonConvert.DeserializeObject<ObservableCollection<Tweet>>(json);
+            }
+            catch (WebException e)
+            {
+                tweets = new ObservableCollection<Tweet>
+                             {
+                                 new Tweet
+                                     {
+                                         text = "Invalid TwitterID.",
+                                     }
+                             };
+            }
+
+            return tweets;
         }
 
     }

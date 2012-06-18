@@ -19,6 +19,15 @@ namespace MVVM.Tests
 
             Assert.IsTrue(tv.Tweets.Count == 20);
         }
+
+        [Test]
+        public void GetNextTwentyTweetsFromUserIdShouldReturnObservableContainerThatContainsInvalidTwitterID()
+        {
+            var tv = new TwitterViewModel();
+            tv.UpdateTweets("____INVALID");
+
+            Assert.IsTrue(tv.Tweets.First().text == "Invalid TwitterID.");
+        }
         
     }
 }

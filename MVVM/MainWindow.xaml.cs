@@ -25,11 +25,17 @@ namespace MVVM
             InitializeComponent();
         }
 
+
         public void RegisterWindsorContainer()
         {
             _container.Register(
                 Component.For<ITwitterService>().ImplementedBy<TwitterService>().LifeStyle.Singleton,
                 Component.For<ITwitterViewModel>().ImplementedBy<TwitterViewModel>().LifeStyle.Transient);
+        }
+
+        private void UpdateTweets(object sender, RoutedEventArgs e)
+        {
+            _tvm.UpdateTweets(TextUpdateTweets.Text);
         }
     }
 }

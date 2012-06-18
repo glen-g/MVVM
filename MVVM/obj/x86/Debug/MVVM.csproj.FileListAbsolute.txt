@@ -37,7 +37,6 @@ C:\Users\Glen\Desktop\MVVM\MVVM\obj\x86\Debug\MVVM_MarkupCompile.lref
 C:\Users\GlenG\Desktop\MVVM\MVVM\bin\Debug\MVVM.exe.config
 C:\Users\GlenG\Desktop\MVVM\MVVM\bin\Debug\MVVM.exe
 C:\Users\GlenG\Desktop\MVVM\MVVM\bin\Debug\MVVM.pdb
-C:\Users\GlenG\Desktop\MVVM\MVVM\bin\Debug\Castle.Core.dll
 C:\Users\GlenG\Desktop\MVVM\MVVM\bin\Debug\Castle.Windsor.dll
 C:\Users\GlenG\Desktop\MVVM\MVVM\bin\Debug\Newtonsoft.Json.dll
 C:\Users\GlenG\Desktop\MVVM\MVVM\bin\Debug\nunit.framework.dll
@@ -59,3 +58,29 @@ C:\Users\GlenG\Desktop\MVVM\MVVM\obj\x86\Debug\GenerateResource.read.1.tlog
 C:\Users\GlenG\Desktop\MVVM\MVVM\obj\x86\Debug\GenerateResource.write.1.tlog
 C:\Users\GlenG\Desktop\MVVM\MVVM\obj\x86\Debug\MVVM.exe
 C:\Users\GlenG\Desktop\MVVM\MVVM\obj\x86\Debug\MVVM.pdb
+C:\Users\GlenG\Desktop\MVVM\MVVM\bin\Debug\Castle.Core.dll
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\bin\Debug\MVVM.exe.config
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\obj\x86\Debug\MVVM.exe
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\obj\x86\Debug\MVVM.pdb
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\bin\Debug\MVVM.exe
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\bin\Debug\MVVM.pdb
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\bin\Debug\Castle.Core.dll
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\bin\Debug\Castle.Windsor.dll
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\bin\Debug\nunit.framework.dll
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\bin\Debug\Rhino.Mocks.dll
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\bin\Debug\Castle.Core.xml
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\bin\Debug\Castle.Windsor.xml
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\bin\Debug\nunit.framework.xml
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\bin\Debug\Rhino.Mocks.xml
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\obj\x86\Debug\MainWindow.g.cs
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\obj\x86\Debug\App.g.cs
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\obj\x86\Debug\MVVM_MarkupCompile.cache
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\obj\x86\Debug\MVVM_MarkupCompile.lref
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\obj\x86\Debug\MainWindow.baml
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\obj\x86\Debug\MVVM.g.resources
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\obj\x86\Debug\MVVM.Properties.Resources.resources
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\GlenG\Desktop\Twitter Applications\MVVM\MVVM\obj\x86\Debug\GenerateResource.write.1.tlog

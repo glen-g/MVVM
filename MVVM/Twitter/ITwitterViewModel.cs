@@ -10,5 +10,6 @@ namespace MVVM.Twitter
         Tweet SelectedTweet { get; set; }
         string CurrentImageFromTweet { get; set; }
         void UpdateTweets(string userId);
+        string CurrentTwitterId { get; set; }
     }
 }

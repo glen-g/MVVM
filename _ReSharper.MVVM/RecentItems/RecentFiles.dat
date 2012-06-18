@@ -2,26 +2,49 @@
   <RecentFiles>
     <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterUserMedia.cs" caret="53" fromTop="4" />
     <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterUserEntities.cs" caret="88" fromTop="5" />
-    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterService.cs" caret="201" fromTop="10" />
     <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:Tweet.cs" caret="380" fromTop="16" />
-    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:ITwitterViewModel.cs" caret="133" fromTop="6" />
-    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterViewModel.cs" caret="175" fromTop="5" />
-    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterTest.cs" caret="534" fromTop="9" />
     <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterUser.cs" caret="53" fromTop="4" />
     <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/f:App.xaml.cs" caret="0" fromTop="0" />
     <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/f:App.xaml" caret="0" fromTop="0" />
-    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/f:MainWindow.xaml" caret="1929" fromTop="6" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/f:MainWindow.xaml.cs" caret="1085" fromTop="26" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:ITwitterViewModel.cs" caret="369" fromTop="11" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/f:MainWindow.xaml" caret="1041" fromTop="8" />
     <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:ITwitterService.cs" caret="0" fromTop="0" />
-    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/f:MainWindow.xaml.cs" caret="1001" fromTop="32" />
-    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="2115" fromTop="8" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterTest.cs" caret="448" fromTop="17" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterService.cs" caret="1260" fromTop="44" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="2651" fromTop="21" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterViewModel.cs" caret="1244" fromTop="18" />
   </RecentFiles>
   <RecentEdits>
-    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterViewModel.cs" caret="1033" fromTop="14" />
-    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="346" fromTop="9" />
-    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="3062" fromTop="26" />
-    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="2075" fromTop="25" />
-    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="470" fromTop="6" />
-    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/f:MainWindow.xaml" caret="1929" fromTop="6" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="469" fromTop="6" />
     <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/f:MainWindow.xaml.cs" caret="21" fromTop="0" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="2132" fromTop="8" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/f:MainWindow.xaml" caret="2497" fromTop="9" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/f:MainWindow.xaml" caret="309" fromTop="5" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/f:MainWindow.xaml.cs" caret="686" fromTop="20" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:ITwitterViewModel.cs" caret="382" fromTop="12" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterViewModel.cs" caret="1412" fromTop="21" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/f:MainWindow.xaml" caret="2351" fromTop="6" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/f:MainWindow.xaml.cs" caret="1138" fromTop="27" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterService.cs" caret="1244" fromTop="17" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterService.cs" caret="1244" fromTop="18" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="3166" fromTop="40" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="3166" fromTop="20" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterService.cs" caret="259" fromTop="12" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterService.cs" caret="1244" fromTop="39" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="365" fromTop="16" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterViewModel.cs" caret="611" fromTop="17" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="4098" fromTop="21" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterViewModel.cs" caret="2287" fromTop="23" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterViewModel.cs" caret="1137" fromTop="13" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterViewModel.cs" caret="2573" fromTop="22" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterViewModel.cs" caret="2573" fromTop="20" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Twitter/f:TwitterViewModel.cs" caret="1244" fromTop="3" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterTest.cs" caret="516" fromTop="22" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterTest.cs" caret="833" fromTop="29" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="3170" fromTop="23" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="3183" fromTop="19" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="3794" fromTop="24" />
+    <File id="99EBAC5D-CA1C-46A0-9AC7-02FDFFF7C15F/d:Tests/f:TwitterViewModelTest.cs" caret="3794" fromTop="17" />
   </RecentEdits>
 </RecentFiles>
